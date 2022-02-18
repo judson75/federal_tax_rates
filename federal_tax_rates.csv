@@ -1,0 +1,33 @@
+Tax rate,Min Taxable income bracket,Max Taxable income bracket,Flat Amount,Tax owed
+Single,,,,
+10%,$0,"$10,275",,10% of taxable income
+12%,"$10,276","$41,775","$1,027.50","$1,027.50 plus 12% of the amount over $10,275"
+22%,"$41,776","$89,075","$4,807.50","$4,807.50 plus 22% of the amount over $41,775"
+24%,"$89,076","$170,050","$15,213.50","$15,213.50 plus 24% of the amount over $89,075"
+32%,"$170,051","$215,950","$34,647.50","$34,647.50 plus 32% of the amount over $170,050"
+35%,"$215,951","$539,900","$49,335.50","$49,335.50 plus 35% of the amount over $215,950"
+37%,"$539,901",,"$162,718","$162,718 plus 37% of the amount over $539,900"
+"Married, filing jointly",,,,
+10%,$0,"$20,550",,10% of taxable income
+12%,"$20,551","$83,550","$2,055","$2,055 plus 12% of the amount over $20,550"
+22%,"$83,551","$178,150","$9,615","$9,615 plus 22% of the amount over $83,550"
+24%,"$178,151","$340,100","$30,427","$30,427 plus 24% of the amount over $178,150"
+32%,"$340,101","$431,900","$69,295","$69,295 plus 32% of the amount over $340,100"
+35%,"$431,901","$647,850","$98,671","$98,671 plus 35% of the amount over $431,900"
+37%,"$647,851",,"$174,253.50","$174,253.50 plus 37% of the amount over $647,850"
+"Married, filing separately",,,,
+10%,$0,"$10,275",,10% of taxable income
+12%,"$10,276","$41,775","$1,027.50","$1,027.50 plus 12% of the amount over $10,275"
+22%,"$41,776","$89,075","$4,807.50","$4,807.50 plus 22% of the amount over $41,775"
+24%,"$89,076","$170,050","$15,213.50","$15,213.50 plus 24% of the amount over $89,075"
+32%,"$170,051","$215,950","$34,647.50","$34,647.50 plus 32% of the amount over $170,050"
+35%,"$215,951","$323,925","$49,335.50","$49,335.50 plus 35% of the amount over $215,950"
+37%,"$323,926",,"$87,127","$87,126.75 plus 37% of the amount over $323,925"
+Head of household,,,,
+10%,$0,"$14,650",,10% of taxable income
+12%,"$14,651","$55,900","$1,465","$1,465 plus 12% of the amount over $14,650"
+22%,"$55,901","$89,050","$6,415","$6,415 plus 22% of the amount over $55,900"
+24%,"$89,051","$170,050","$13,708","$13,708 plus 24% of the amount over $89,050"
+32%,"$170,051","$215,950","$33,148","$33,148 plus 32% of the amount over $170,050"
+35%,"$215,951","$539,900","$47,836","$47,836 plus 35% of the amount over $215,950"
+37%,"$539,901",,"$161,218.50","$161,218.50 plus 37% of the amount over $539,900"
